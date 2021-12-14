@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{23A8547E-57BE-4531-ABAF-9BF81849AA45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Observer_Strategy/Exchange.cs">
+    <Files>
+      <File FileName="Observer_Strategy/Program.cs" Line="191" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Observer_Strategy" expanded="True">
+            <Node name="Observer_Strategy" expanded="True">
+              <Node name="Exchange.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Observer__Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

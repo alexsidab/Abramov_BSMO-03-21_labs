@@ -1,0 +1,52 @@
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.AssemblyReference.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.AssemblyReference.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Library/Containers/Mail.Ru.DiskO.as/Data/Disk-O.as.mounts/abr28@mail.ru-mailru/Учёба/1 семестр/Инженерия информационных систем/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.AssemblyReference.cache
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Desktop/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.deps.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.runtimeconfig.dev.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/bin/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.AssemblyReference.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfoInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.AssemblyInfo.cs
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab2/FactoryMethod/FactoryMethod/obj/Debug/netcoreapp3.1/FactoryMethod.genruntimeconfig.cache

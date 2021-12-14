@@ -1,0 +1,13 @@
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/bin/Debug/netcoreapp3.1/Observer_Strategy.deps.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/bin/Debug/netcoreapp3.1/Observer_Strategy.runtimeconfig.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/bin/Debug/netcoreapp3.1/Observer_Strategy.runtimeconfig.dev.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/bin/Debug/netcoreapp3.1/Observer_Strategy.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/bin/Debug/netcoreapp3.1/Observer_Strategy.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.csproj.AssemblyReference.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.AssemblyInfoInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.AssemblyInfo.cs
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.csproj.CoreCompileInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab4/Observer_Strategy/Observer_Strategy/obj/Debug/netcoreapp3.1/Observer_Strategy.genruntimeconfig.cache

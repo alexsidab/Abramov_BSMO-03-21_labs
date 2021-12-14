@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{31D03536-61D0-46C1-B113-BD89B066E7A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Builder_Strategy/Cameras.cs">
+    <Files>
+      <File FileName="Builder_Strategy/Program.cs" Line="16" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Builder_Strategy" expanded="True">
+            <Node name="Builder_Strategy" expanded="True">
+              <Node name="Cameras.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Builder__Strategy PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

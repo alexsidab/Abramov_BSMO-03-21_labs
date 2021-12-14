@@ -1,0 +1,13 @@
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/bin/Debug/netcoreapp3.1/Builder_Strategy.deps.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/bin/Debug/netcoreapp3.1/Builder_Strategy.runtimeconfig.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/bin/Debug/netcoreapp3.1/Builder_Strategy.runtimeconfig.dev.json
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/bin/Debug/netcoreapp3.1/Builder_Strategy.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/bin/Debug/netcoreapp3.1/Builder_Strategy.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.csproj.AssemblyReference.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.AssemblyInfoInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.AssemblyInfo.cs
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.csproj.CoreCompileInputs.cache
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.dll
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.pdb
+/Users/abramov/Downloads/Abramov_BSMO-03-21_labs/Lab3/Builder_Strategy/Builder_Strategy/obj/Debug/netcoreapp3.1/Builder_Strategy.genruntimeconfig.cache
